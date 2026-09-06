@@ -30,7 +30,7 @@ An end‑to‑end analysis of 5.6M+ bike‑share trips to understand how annual 
 
 **🔗 Project Links**
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](YOUR_REPO_LINK_HERE)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/msalim25)  
 [![Medium Article](https://img.shields.io/badge/Medium-Case%20Study-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mehnazaneesh)  
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-005F9E?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/mehanaz.salim/vizzes)
 
