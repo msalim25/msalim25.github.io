@@ -58,6 +58,11 @@ An end‑to‑end analysis of 5.6M+ bike‑share trips to understand how annual 
 
 ---
 
+## 🎓 Certifications
+
+[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Certificate-34A853?style=for-the-badge&logo=google)](https://www.credly.com/badges/d97702ac-eb84-4eb0-883d-081e8dd935f9/public_url)
+
+
 ## 🎯 What I’m Working On
 
 - Building polished, recruiter‑ready analytics projects  
